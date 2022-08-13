@@ -1,4 +1,1 @@
 # new
-hi
-hello
-say
